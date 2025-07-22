@@ -1,5 +1,5 @@
 ---
-title: "MEFA PhenoCam Activity"
+title: "PhenoCam Activity"
 format: html
 editor: visual
 warning: false
